@@ -43,16 +43,5 @@
     "eslint": "^7.32.0",
     "eslint-plugin-testing-library": "^3.10.2",
     "gh-pages": "^5.0.0"
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aldhi28/ToDoApp.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Aldhi28/ToDoApp/issues"
-  },
-  "description": ""
+  }
 }
