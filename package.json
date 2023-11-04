@@ -1,6 +1,6 @@
 {
   "homepage": "https://Aldhi28.github.io/ToDoApp",
-  "name": "ToDoApp",
+  "name": "todoapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
